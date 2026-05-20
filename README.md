@@ -1,4 +1,4 @@
-# Hi, I'm Kurt Vincent Gois 👋
+# Hi, I'm PopoBoy 👋
 
 I'm a student programmer who enjoys coding and playing video games.
 
