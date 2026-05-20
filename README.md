@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Kurt Vincent Gois 👋
 
 I'm a student programmer who enjoys coding and playing video games.
