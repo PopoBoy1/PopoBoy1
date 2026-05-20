@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi, I'm Kurt Vincent Gois 👋
 
-<!--
-**PopoBoy1/PopoBoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student programmer who enjoys coding and playing video games.
 
-Here are some ideas to get you started:
+Currently learning:
+- Python
+- C++
+- Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a game developer someday.
+
+## Tools & Platforms
+- GitHub
+- Visual Studio Code
+- ChatGPT
+- OpenAI Codex
+- Gemini
+- Claude
+
+> Still learning and improving every day.
